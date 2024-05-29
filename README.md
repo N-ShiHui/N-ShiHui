@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N-ShiHui
-- 👀 I’m interested in tech, AI, security, making my life easier with AI
-- 🌱 I’m currently learning AI, machine learning, cybersecurity 
+- 👀 I’m interested in tech, AI, machine-learning, making my life easier with AI
+- 🌱 I’m currently learning AI, machine learning
 - 💞️ I’m looking to collaborate on projects related to the above mentioned
 - 📫 How to reach me: gsh.bomb@gmail.com
 
